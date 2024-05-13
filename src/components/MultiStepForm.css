@@ -1,0 +1,124 @@
+
+.step1-container {
+    width: 400px;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    background-color: #f9f9f9;
+  }
+  
+  .step1-container h2 {
+    margin-bottom: 20px;
+  }
+  
+  .step1-container form {
+    margin-bottom: 20px;
+    height: 400px;
+    display: grid; 
+    gap: 10px; 
+  }
+  
+  .step1-container label {
+    display: block;
+    margin-bottom: 5px;
+  }
+  
+  .step1-container input[type="text"],
+  .step1-container input[type="email"],
+  .step1-container select,
+  .step1-container textarea {
+    width: 100%;
+    padding: 8px;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+  }
+  
+  .step1-container input[type="radio"],
+  .step1-container input[type="checkbox"] {
+    margin-right: 5px;
+  }
+  
+  .step2-container {
+    width: 400px;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    background-color: #f9f9f9;
+  }
+  
+  .step2-container h2 {
+    margin-bottom: 20px;
+  }
+  
+  .step2-container form {
+    margin-bottom: 20px;
+  }
+  
+  .step2-container label {
+    display: block;
+    margin-bottom: 5px;
+  }
+  
+  .step2-container input[type="text"] {
+    width: 100%;
+    padding: 8px;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+  }
+  .step3-container {
+    width: 800px;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    background-color: #f9f9f9;
+  }
+  
+  .step3-container h2 {
+    margin-bottom: 20px;
+  }
+  
+  .step3-container form {
+    margin-bottom: 20px;
+  }
+  
+  .step3-container label {
+    display: block;
+    margin-bottom: 10px;
+  }
+  
+  .step3-container textarea {
+    width: 100%;
+    padding: 8px;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+  }
+  
+  .step3-container input[type="checkbox"] {
+    margin-right: 5px;
+  }
+  
+  .step3-container button {
+    margin-right: 10px;
+  }
+  .step-button {
+    margin-right: 50px;
+  }
+  .button-container {
+    display: flex;
+    justify-content: center;
+  }
+  .preview-btn{
+    margin-right: 10px;
+  }
+  .stepper-buttons-container {
+margin: 20px;
+  }
+  
+  
+  
